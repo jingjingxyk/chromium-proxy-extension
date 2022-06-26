@@ -1,5 +1,5 @@
 # 自定义 chromium 代理扩展
-
+> 关键点  proxy.js 文件编写 
 
 ## 优秀的开源软件
 1. [`summerofcode.withgoogle.com`](https://summerofcode.withgoogle.com/programs/2022/organizations)
