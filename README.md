@@ -7,4 +7,4 @@
 
 ## 参考文档
 1. [Proxy_Auto-Configuration_PAC_file](https://developer.mozilla.org/en-US/docs/Web/HTTP/Proxy_servers_and_tunneling/Proxy_Auto-Configuration_PAC_file)
-2. [extensions proxy ]("https://developer.chrome.com/docs/extensions/reference/proxy/" )
+2. [extensions proxy]("https://developer.chrome.com/docs/extensions/reference/proxy/" )
