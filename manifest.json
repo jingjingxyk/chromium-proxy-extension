@@ -1,0 +1,13 @@
+{
+    "name": "proxy extension",
+    "version": "0.1.0",
+    "manifest_version": 3,
+    "description": "自定义 proxy extension",
+    "background": {
+        "service_worker": "background.js",
+        "type": "module"
+    },
+    "permissions": [
+        "proxy"
+    ]
+}
